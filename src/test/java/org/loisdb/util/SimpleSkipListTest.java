@@ -8,7 +8,7 @@ import org.junit.Test;
  * @author zhanglongxiang
  * @since 2022/6/6
  */
-public class SkipListTest {
+public class SimpleSkipListTest {
 
     @Test
     public void testInsert() {
